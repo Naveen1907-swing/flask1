@@ -1,0 +1,4 @@
+streamlit
+googletrans
+http.client
+json
